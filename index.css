@@ -204,6 +204,6 @@ button:active {
 }
 
 #btnContador {
-    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    background: linear-gradient(135deg, #e9fa00 0%, #63ff41 100%);
     margin-top: 15px;
 }
